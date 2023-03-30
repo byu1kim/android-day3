@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="tip_calculator_heading">Calculate Tip</string>
+    <string name="service_cost">Cost of Service</string>
+    <string name="bill_amount">Bill amount : $ %s</string>
+    <string name="tip_amount">Tip amount : $ %s</string>
+    <string name="total">Total : $ %s</string>
+</resources>
